@@ -45,3 +45,16 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+
+## APP EN SVELTE + PHP
+
+Instalación:
+
+Para poder verla introducirla en XAMPP o un equipo con php y mysql integrado. 
+
+Una vez introducida en XAMPP realizar los siguientes comandos en la app:
+
+npm install
+
+npm run dev
+
